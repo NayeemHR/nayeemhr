@@ -1,5 +1,8 @@
 <h1>Hi, i'm Nayeem</h1> 
-<p align="left">I am an experienced and hard-working web designer and developer. Also, highly experienced in Adobe Photoshop, HTML, CSS, js. I have created a total of 100+ websites in the last 4 years and have had a lot of experience with those projects. I like to stay in this line of work because I am interested in technology, design, and innovation. I love working freelance because it gives me the freedom to choose when and how I work. Now I want to provide my services to the public on Fiverr. Send me a message so we can start building your new website!</p>
 
-[Nayeem Hassan](https://previews.dropbox.com/p/thumb/AA2SOX2kD_6B3mlkjFbNcIpYjkt3p8-Coh6i2xF2ZB22DPxlZMjEeVp-aDAkDGbdn5vt5bfLArsHPPNTURUN6y6LYMR6VRZR6NMofnjS0fsWKTmqlzJxeVh_hE_PoQ-Fba3yYAAeJeHIg3FYyA6ebCWxZrDT8hgjVlgByiORa7wmdAYP-Iff0htD5xlOqG28JSdGpLroY-MsoLcWyDwQLBbmjStecqvMOQMkx69UfK1RQPk9bWf21ND3wb_p285ABNZuHwUuiCd6TWx5zMsMsPpqJM7vJGsCrftuZ_Ub1e9Btj-olPv09jWDB3x-JKBG47jlCBj1tvkr_YVwSnpavRRvhvnClzF4X4dMabGiBU2zjQ/p.png?fv_content=true&size_mode=5)
-<img src="https://previews.dropbox.com/p/thumb/AA2SOX2kD_6B3mlkjFbNcIpYjkt3p8-Coh6i2xF2ZB22DPxlZMjEeVp-aDAkDGbdn5vt5bfLArsHPPNTURUN6y6LYMR6VRZR6NMofnjS0fsWKTmqlzJxeVh_hE_PoQ-Fba3yYAAeJeHIg3FYyA6ebCWxZrDT8hgjVlgByiORa7wmdAYP-Iff0htD5xlOqG28JSdGpLroY-MsoLcWyDwQLBbmjStecqvMOQMkx69UfK1RQPk9bWf21ND3wb_p285ABNZuHwUuiCd6TWx5zMsMsPpqJM7vJGsCrftuZ_Ub1e9Btj-olPv09jWDB3x-JKBG47jlCBj1tvkr_YVwSnpavRRvhvnClzF4X4dMabGiBU2zjQ/p.png?fv_content=true&size_mode=5">
+
+<img src="https://live.staticflickr.com/65535/50166170107_4a0e626e81_b.jpg" width="1024" height="364" alt="nayeemcover">
+
+<p>I am an experienced and hard-working web designer and developer. Also, highly experienced in Adobe Photoshop, HTML, CSS, js. I have created a total of 100+ websites in the last 4 years and have had a lot of experience with those projects. I like to stay in this line of work because I am interested in technology, design, and innovation. I love working freelance because it gives me the freedom to choose when and how I work. Now I want to provide my services to the public on Fiverr. Send me a message so we can start building your new website!</p>
+
+
